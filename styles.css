@@ -1,0 +1,7 @@
+.hero {
+    background-image: url("images/home/home-hero.jpg");
+}
+
+.checked {
+  color: orange;
+}
