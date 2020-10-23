@@ -131,6 +131,10 @@ nav {
 }
 /* END OF NAVBAR */
 
+section {
+    margin-top: 50px;
+}
+
 /****** Footer *******/
 .footer {
     display: flex;
